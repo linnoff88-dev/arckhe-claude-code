@@ -12741,7 +12741,7 @@ src/hooks/useClaudeCodeHintRecommendation.tsx:13:import { useNotifications } fro
 src/hooks/useClaudeCodeHintRecommendation.tsx:14:import { type AnalyticsMetadata_I_VERIFIED_THIS_IS_NOT_CODE_OR_FILEPATHS, type AnalyticsMetadata_I_VERIFIED_THIS_IS_PII_TAGGED, logEvent } from '../services/analytics/index.js';
 src/hooks/useClaudeCodeHintRecommendation.tsx:15:import { clearPendingHint, getPendingHintSnapshot, markShownThisSession, subscribeToPendingHint } from '../utils/claudeCodeHints.js';
 src/hooks/useClaudeCodeHintRecommendation.tsx:16:import { logForDebugging } from '../utils/debug.js';
-src/hooks/useClaudeCodeHintRecommendation.tsx:17:import { disableHintRecommendations, markHintPluginShown, type PluginHintRecommendation, resolvePluginHint } from '../utils/plugins/hintRecommendation.js';
+src/hooks/useClaudeCodeHintRecommendation.tsx:17:import { disableHintRecommendations, mARCKHintPluginShown, type PluginHintRecommendation, resolvePluginHint } from '../utils/plugins/hintRecommendation.js';
 src/hooks/useClaudeCodeHintRecommendation.tsx:18:import { installPluginFromMarketplace } from '../utils/plugins/pluginInstallationHelpers.js';
 src/hooks/useClaudeCodeHintRecommendation.tsx:19:import { installPluginAndNotify, usePluginRecommendationBase } from './usePluginRecommendationBase.js';
 src/hooks/useIdeConnectionStatus.ts:1:import { useMemo } from 'react'

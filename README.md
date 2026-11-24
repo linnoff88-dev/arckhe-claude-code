@@ -1,4 +1,4 @@
-﻿
+
 # Claude Code (Unofficial Source Extraction)
 
 Follow me at https://x.com/paidev
@@ -136,4 +136,4 @@ This is **not** affiliated with, endorsed by, or supported by Anthropic.
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
