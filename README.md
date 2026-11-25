@@ -136,4 +136,4 @@ This is **not** affiliated with, endorsed by, or supported by Anthropic.
 
 ---
 
-Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - ARCKHÉe
